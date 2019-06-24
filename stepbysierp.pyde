@@ -1,3 +1,5 @@
+# vim: ft=python
+
 from sierp import BFS_sierp, s32
 
 def setup():
